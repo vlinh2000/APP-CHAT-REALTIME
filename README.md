@@ -1,3 +1,11 @@
+#KNOWLEDGE
+-REACT (ref,state,effect,memo) 
+-REACT ROUTER DOM
+-FIREBASE AUTH , FIRESTORE , using EMULATORS
+-MUI (toottip , grid , button ,avatar ), ANTD (avatarGroup , Collapse, Modal , Form , Input)
+-REACT-EMOIJ-PICKER
+-CUSTOM COMPONENT
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
